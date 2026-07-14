@@ -1,5 +1,7 @@
 Caverna Marciana — Robô Explorador Autônomo
+
 Projeto desenvolvido em C como trabalho acadêmico de programação. 
+
 O objetivo é implementar um módulo decisor autônomo para um robô explorador que deve navegar por uma caverna marciana desconhecida, encontrar uma poça d'água e retornar à entrada — sem morrer em poços de lava.
 
 Sobre o jogo:
